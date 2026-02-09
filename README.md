@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently a Student<br>👯 I’m Exploring new Deeds<br>🤝 I’m looking for help for my upcoming Projects<br>🌱 I’m currently learning<br>💬 Ask me about AI<br>⚡ Fun fact Nothing
 
