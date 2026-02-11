@@ -1,21 +1,47 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<!-- Animated Header -->
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3DF7768E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2BI%27m%2BDibyx+👋;Code.+Sleep.+Repeat.;Building+the+Future+with+AI.;Exploring+the+Cosmos+of+Code." alt="Typing SVG" />
+<!-- Dynamic Glitch/Tech Gif -->
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
+<!-- Socials in a clean pill style -->
+<p align="center">
+<a href="mailto:concealment960@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/dibyx">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+</a>
+</p>
 </div>
+👨‍💻 About Me
+<img align="right" width="300" src="https://www.google.com/search?q=https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Gif" />
+I'm a Student and Scholastic Explorer with a passion for building digital experiences. I love blending complex backend logic with smooth frontend interactions.
+ * 🔭 I’m currently working on Next Gen AI Projects
+ * 👯 I’m looking to collaborate on Open Source & Full Stack Apps
+ * 🤝 I’m looking for help with Advanced Machine Learning
+ * 🌱 I’m currently learning Neural Networks & System Design
+ * 💬 Ask me about AI, Python, or why my code works (sometimes)
+ * ⚡ Fun fact: I can center a div on the first try. (Okay, maybe the second.)
+🚀 Tech Stack
+<div align="center">
+| Languages | Frontend & Mobile |
+|---|---|
+|  |  |
+| Backend & Database | Cloud & DevOps |
+|---|---|
+|  |  |
+| Data Science | Tools |
+|---|---|
+|  |  |
+</div>
+⚡ GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddibyx%26theme%3Dcatppuccin_mocha%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddibyx%26theme%3Dcatppuccin_mocha%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" height="150" alt="languages graph" />
 
-# 💫 About Me:
-🔭 I’m currently a Student<br>👯 I’m Exploring new Deeds<br>🤝 I’m looking for help for my upcoming Projects<br>🌱 I’m currently learning<br>💬 Ask me about AI<br>⚡ Fun fact Nothing
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:concealment960@gmail.com) 
-
-# 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dibyx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dibyx&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dibyx&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Ddibyx%26theme%3Dcatppuccin_mocha%26hide_border%3Dtrue" height="150" alt="streak graph" />
+</div>
+<div align="center">
+<i>Let's build something amazing together.</i>
+</div>
