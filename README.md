@@ -22,7 +22,7 @@
 🤝 Looking for collaborators for upcoming projects  
 🌱 Currently mastering **AI + Full Stack Development**  
 💬 Ask me about **Artificial Intelligence & System Architecture**  
-⚡ Fun fact: I turn coffee into scalable applications ☕
+⚡ Fun fact: I can do vibe coding 🫣
 
 ---
 
