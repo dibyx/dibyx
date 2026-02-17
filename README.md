@@ -1,17 +1,23 @@
-<!-- ===================== DIBYX • FINAL COSMIC FORM ===================== -->
+<!-- ===================== DIBYX • ELITE++ COSMIC SYSTEM ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dibyx/dibyx/main/custom-header.svg" />
+  <img src="https://raw.githubusercontent.com/dibyx/dibyx/main/custom-header.svg" alt="Cosmic Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=C77DFF&center=true&vCenter=true&width=850&lines=Astrophile+🌌;AI+Systems+Architect+🤖;Building+Scalable+Digital+Galaxies+🚀;Dark+Mode+Native+🌑;Future+Focused+Engineer" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=C77DFF&center=true&vCenter=true&width=900&lines=Astrophile+🌌;AI+Systems+Architect+🤖;Engineering+Scalable+Galaxies+🚀;Dark+Mode+Native+🌑;Precision.+Performance.+Power." />
 </p>
 
 ---
 
 <h1 align="center">🌌 D I B Y X</h1>
-<p align="center"><b>Cosmic Code Architect • Backend Galaxy Builder • Intelligence Engineer</b></p>
+<p align="center">
+<b>Cosmic Code Architect • Backend Galaxy Builder • Intelligence Engineer</b>
+</p>
 
 ---
 
@@ -21,7 +27,7 @@
 > Booting Neural Core...
 > Establishing Orbital Link...
 > Synchronizing Distributed Systems...
-> Deploying Production Nodes...
+> Deploying Production Infrastructure...
 > Status: ONLINE 🟢
 ```
 
@@ -35,21 +41,29 @@
 
 ---
 
-## 🌠 About Me
+## 🌌 Contribution Galaxy
 
-🔭 Fascinated by the cosmos & complex architectures  
-🤖 Designing intelligent, scalable AI systems  
-🚀 Engineering distributed backend infrastructures  
-🌑 Obsessed with performance, clarity & minimal elegance  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyx&theme=react-dark&bg_color=000000&hide_border=true"/>
+</p>
 
 ---
 
-## 🌌 Current Focus
+## 📊 GitHub Overview
 
-- Advanced AI orchestration  
-- Distributed systems engineering  
-- Backend performance optimization  
-- Futuristic UI/UX architecture  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dibyx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+## 🌠 About Me
+
+🔭 Astrophile exploring beyond the observable universe  
+🤖 Designing intelligent distributed AI systems  
+🚀 Building high-performance backend architectures  
+🌑 Obsessed with clarity, minimalism & precision  
 
 ---
 
