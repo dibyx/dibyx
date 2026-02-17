@@ -1,113 +1,85 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hey+I'm+Dibyx+%F0%9F%91%8B;AI+Explorer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future..." />
-</h1>
+<!-- ===================== COSMIC HEADER ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dibyx&label=Profile%20Views&color=7F5AF0&style=flat" />
-  <img src="https://img.shields.io/github/followers/dibyx?label=Followers&style=social" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,50:302b63,100:24243e&text=DIBYX&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Cosmic%20Code%20Architect%20🌌&descAlignY=65"/>
 </p>
 
-
-
-<!-- ===================== ABOUT ME ===================== -->
-
-## 💫 About Me
-
-<img align="right" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-
-🔭 I’m currently a **Student**  
-👯 Exploring new ideas & building powerful systems  
-🤝 Looking for collaborators for upcoming projects  
-🌱 Currently mastering **AI + Full Stack Development**  
-💬 Ask me about **Artificial Intelligence & System Architecture**  
-⚡ Fun fact: I can do vibe coding 🫣
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=9D4EDD&center=true&vCenter=true&width=700&lines=Astrophile+🌌;AI+Explorer+🤖;Full+Stack+Builder+🚀;Turning+Ideas+into+Universes..." />
+</p>
 
 ---
 
-<!-- ===================== SOCIALS ===================== -->
+# 🌌 About Me
 
-## 🌐 Connect With Me
+<img align="right" width="280" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+
+✨ Student navigating the universe of technology  
+🚀 Building scalable digital constellations  
+🤖 Deeply fascinated by Artificial Intelligence  
+🌠 Astrophile — inspired by galaxies & quantum chaos  
+🧠 Architecting ideas into production-ready systems  
+☕ Powered by curiosity & dark mode  
+
+---
+
+# 🪐 Tech Constellation
+
+### 🚀 Core Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,kotlin,nodejs,react,vue"/>
+</p>
+
+### 🌍 Backend & Infra
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,supabase,mysql,docker,vercel,gcp,cloudflare"/>
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gradle,vite"/>
+</p>
+
+---
+
+# 📡 GitHub Orbit Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dibyx&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyx&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+---
+
+# 🛰 Cosmic Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyx&theme=midnight_purple"/>
+</p>
+
+---
+
+# 🌠 Contribution Galaxy
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dibyx&theme=midnight_purple&utcOffset=5.5"/>
+</p>
+
+---
+
+# 🛸 Connect Across the Universe
 
 <p align="center">
   <a href="mailto:concealment960@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Transmit%20Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/dibyx">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Base-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-## 💻 Tech Arsenal
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=cloudflare,gcp,vercel,docker,apache"/>
-</p>
-
-### 🧠 Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,mysql,firebase,supabase"/>
-</p>
-
-### 🎨 Frontend & Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,vite,typescript,kotlin"/>
-</p>
-
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gradle"/>
-</p>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dibyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyx&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-<!-- ===================== TROPHY ===================== -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dibyx&theme=algolia&no-frame=true&row=1&margin-w=15"/>
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyx&theme=react-dark&bg_color=0D1117&hide_border=true"/>
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<h3 align="center">
-✨ "Code. Create. Conquer." ✨
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
