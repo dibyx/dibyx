@@ -1,0 +1,122 @@
+<svg viewBox="0 0 1400 420" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0%" stop-color="#02020a"/>
+    <stop offset="50%" stop-color="#0b0920"/>
+    <stop offset="100%" stop-color="#16102a"/>
+  </linearGradient>
+
+  <radialGradient id="planetGrad" cx="30%" cy="25%">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="30%" stop-color="#f0c8ff"/>
+    <stop offset="70%" stop-color="#c77dff"/>
+    <stop offset="100%" stop-color="#5b1a9a"/>
+  </radialGradient>
+
+  <linearGradient id="ringGrad" x1="0" x2="1">
+    <stop offset="0%" stop-color="#ffd7ff"/>
+    <stop offset="100%" stop-color="#7b61ff"/>
+  </linearGradient>
+
+  <linearGradient id="trailGrad" x1="0" x2="1">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#7b61ff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1400" height="420" fill="url(#bg)" />
+
+<!-- Stars -->
+<g fill="white">
+  <circle cx="150" cy="60" r="2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="40" r="2">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="80" r="2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="50" r="2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Shooting Stars -->
+<g stroke="url(#trailGrad)" stroke-width="2">
+  <line x1="-300" y1="100" x2="-150" y2="40">
+    <animateTransform attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="1800 -60"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </line>
+  <line x1="-400" y1="200" x2="-200" y2="120">
+    <animateTransform attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="2000 -80"
+      dur="9s"
+      begin="2s"
+      repeatCount="indefinite"/>
+  </line>
+</g>
+
+<!-- Orbit -->
+<ellipse cx="700" cy="260" rx="280" ry="90"
+         fill="none"
+         stroke="rgba(199,125,255,0.15)" />
+
+<!-- Planet -->
+<g transform="translate(1000,230)">
+  <circle r="90" fill="url(#planetGrad)" />
+  <ellipse rx="150" ry="45"
+           fill="none"
+           stroke="url(#ringGrad)"
+           stroke-width="4">
+    <animateTransform attributeName="transform"
+      type="rotate"
+      from="0"
+      to="360"
+      dur="18s"
+      repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- Satellite -->
+<g transform="translate(700,260)">
+  <g>
+    <rect x="-8" y="-8" width="16" height="16" fill="#e9ddff"/>
+    <animateTransform attributeName="transform"
+      type="rotate"
+      from="0"
+      to="360"
+      dur="8s"
+      repeatCount="indefinite"/>
+  </g>
+</g>
+
+<!-- Name -->
+<text x="700" y="150"
+      text-anchor="middle"
+      font-size="72"
+      font-weight="800"
+      letter-spacing="8"
+      fill="white"
+      font-family="Arial, sans-serif">
+  D I B Y X
+</text>
+
+<!-- Subtitle -->
+<text x="700" y="195"
+      text-anchor="middle"
+      font-size="18"
+      fill="#c77dff"
+      font-family="monospace">
+  Cosmic Code Architect • Astrophile • AI Explorer
+</text>
+
+</svg>
